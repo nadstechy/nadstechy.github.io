@@ -2,6 +2,8 @@
 
 Welcome to my professional portfolio showcasing my expertise in data science, machine learning, and AI solutions.
 
+Live at: https://nadstechy.github.io/
+
 ## About This Portfolio
 
 This portfolio highlights my experience as a Data Scientist & ML Engineer with 5+ years of experience specializing in:

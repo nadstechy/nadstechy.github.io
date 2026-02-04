@@ -7,7 +7,7 @@
     "start": "http-server -o",
     "dev": "live-server --port=3000",
     "build": "echo 'Portfolio built successfully'",
-    "deploy": "gh-pages -d . -r https://github.com/codewithnads/codewithnads.github.io.git"
+    "deploy": "gh-pages -d . -r https://github.com/nadstechy/nadstechy.github.io.git"
   },
   "keywords": [
     "portfolio",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codewithnads/codewithnads.github.io.git"
+    "url": "https://github.com/nadstechy/nadstechy.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/codewithnads/codewithnads.github.io/issues"
+    "url": "https://github.com/nadstechy/nadstechy.github.io/issues"
   },
-  "homepage": "https://codewithnads.github.io"
+  "homepage": "https://nadstechy.github.io"
 }
