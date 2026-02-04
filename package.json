@@ -1,0 +1,37 @@
+{
+  "name": "nadeem-data-science-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio for Nadeem - Data Scientist & ML Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -o",
+    "dev": "live-server --port=3000",
+    "build": "echo 'Portfolio built successfully'",
+    "deploy": "gh-pages -d . -r https://github.com/codewithnads/codewithnads.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "data-science",
+    "machine-learning",
+    "datascience",
+    "ml-engineer",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Nadeem",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codewithnads/codewithnads.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codewithnads/codewithnads.github.io/issues"
+  },
+  "homepage": "https://codewithnads.github.io"
+}
